@@ -61,7 +61,7 @@ Two XGBoost regression models were trained to predict **per-game pitcher ERA** a
 
 - **`analysis.ipynb`**  
   Full narrative analysis **with all outputs already rendered** (plots, tables, metrics, conclusions).  
-  ✅ Best file for recruiters to review quickly.
+  ✅ Best file for quick review of code and outputs.
 
 - **`build.ipynb`**  
   Re-runs the pipeline end-to-end (API extraction → CSVs → merged dataset → modeling).
