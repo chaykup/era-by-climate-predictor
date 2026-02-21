@@ -6,9 +6,7 @@ This repo contains an end-to-end data science workflow: **power analysis → dat
 
 ---
 
-## Why this project matters (for data science work)
-
-This project mirrors a real applied ML workflow:
+## Why this project matters
 
 - **Problem framing:** “Does adding climate context improve predictive signal?”
 - **Data engineering:** large-scale API extraction, joining heterogeneous sources, handling missingness
